@@ -6,9 +6,7 @@ import org.testng.annotations.BeforeMethod;
 import org.testng.annotations.BeforeSuite;
 import org.testng.annotations.Test;
 import pageObject.BasePage;
-import pageObject.FoodPage;
 import pageObject.MainPage;
-import pageObject.MilkPage;
 
 import java.util.concurrent.TimeUnit;
 
